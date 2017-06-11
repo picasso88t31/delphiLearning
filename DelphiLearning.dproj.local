@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2017/06/11 19:51:36.119,=C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/11 19:51:44.491,C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\DelphiLearning\UnitClasses.pas=C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/06/11 19:51:44.491,C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\DelphiLearning\UnitClasses.dfm=C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2017/06/11 19:51:54.175,C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\DelphiLearning.dproj=C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2017/06/11 19:55:22.460,C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\DelphiLearning\DelphiLearning.dproj=C:\Users\Paolo\Documents\Embarcadero\Studio\Projects\DelphiLearning.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
